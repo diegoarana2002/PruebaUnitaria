@@ -1,0 +1,11 @@
+C:\Diego\Programación\C#\Practicas\PruebaUnitaria\MiProyecto\bin\Debug\net8.0\MiProyecto.deps.json
+C:\Diego\Programación\C#\Practicas\PruebaUnitaria\MiProyecto\bin\Debug\net8.0\MiProyecto.dll
+C:\Diego\Programación\C#\Practicas\PruebaUnitaria\MiProyecto\bin\Debug\net8.0\MiProyecto.pdb
+C:\Diego\Programación\C#\Practicas\PruebaUnitaria\MiProyecto\obj\Debug\net8.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Diego\Programación\C#\Practicas\PruebaUnitaria\MiProyecto\obj\Debug\net8.0\MiProyecto.AssemblyInfoInputs.cache
+C:\Diego\Programación\C#\Practicas\PruebaUnitaria\MiProyecto\obj\Debug\net8.0\MiProyecto.AssemblyInfo.cs
+C:\Diego\Programación\C#\Practicas\PruebaUnitaria\MiProyecto\obj\Debug\net8.0\MiProyecto.csproj.CoreCompileInputs.cache
+C:\Diego\Programación\C#\Practicas\PruebaUnitaria\MiProyecto\obj\Debug\net8.0\MiProyecto.dll
+C:\Diego\Programación\C#\Practicas\PruebaUnitaria\MiProyecto\obj\Debug\net8.0\refint\MiProyecto.dll
+C:\Diego\Programación\C#\Practicas\PruebaUnitaria\MiProyecto\obj\Debug\net8.0\MiProyecto.pdb
+C:\Diego\Programación\C#\Practicas\PruebaUnitaria\MiProyecto\obj\Debug\net8.0\ref\MiProyecto.dll
