@@ -1,5 +1,0 @@
-C:\Diego\Programación\C#\Practicas\PruebaUnitaria\MiAplicacion\obj\Debug\net7.0\MiAplicacion.csproj.AssemblyReference.cache
-C:\Diego\Programación\C#\Practicas\PruebaUnitaria\MiAplicacion\obj\Debug\net7.0\MiAplicacion.GeneratedMSBuildEditorConfig.editorconfig
-C:\Diego\Programación\C#\Practicas\PruebaUnitaria\MiAplicacion\obj\Debug\net7.0\MiAplicacion.AssemblyInfoInputs.cache
-C:\Diego\Programación\C#\Practicas\PruebaUnitaria\MiAplicacion\obj\Debug\net7.0\MiAplicacion.AssemblyInfo.cs
-C:\Diego\Programación\C#\Practicas\PruebaUnitaria\MiAplicacion\obj\Debug\net7.0\MiAplicacion.csproj.CoreCompileInputs.cache
