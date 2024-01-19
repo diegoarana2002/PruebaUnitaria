@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xn3Gkm1+O36Lkcx0BHzBfZolPJBeEoZa1CI1cjvUIju3DlcQC27HYKS27mGPWzPs/J8FjHWf8V+5Zdf86WR7WA==",
+  "success": true,
+  "projectFilePath": "C:\\Diego\\Programación\\C#\\Practicas\\PruebaUnitaria\\MiAplicacion\\MiAplicacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
